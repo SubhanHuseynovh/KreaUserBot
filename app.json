@@ -87,11 +87,11 @@
       "value": "False"
     },
     "BOT_USERNAME": {
-      "description": "Write your bot username.",
+      "description": "@kreatoroyun_bot", 
       "required": false  
     },
     "BOT_TOKEN": {
-      "description": "Write your bot token.",
+      "description": "5050254507:AAF1SIVqHQRR6HDbTsNtduaQ5H6qkzc5Z0Q", 
       "required": false    
     },
     "GENIUS": {
