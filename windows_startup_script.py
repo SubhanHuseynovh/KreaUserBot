@@ -7,5 +7,5 @@ from telethon import TelegramClient
 API_KEY="Bunu buraya yazın"
 API_HASH="Bunu buraya yazın."
 #my.telegram.org adresinden alın
-bot = TelegramClient('userbot',API_KEY,API_HASH)
+bot = TelegramClient('userbot',5050254507:AAF1SIVqHQRR6HDbTsNtduaQ5H6qkzc5Z0Q) 
 bot.start()
