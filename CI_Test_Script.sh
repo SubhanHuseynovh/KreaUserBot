@@ -15,7 +15,7 @@ PARSE_BRANCH="$(git rev-parse --abbrev-ref HEAD)"
 PARSE_ORIGIN="$(git config --get remote.origin.url)"
 COMMIT_POINT="$(git log --pretty=format:'%h : %s' -1)"
 COMMIT_HASH="$(git rev-parse --verify HEAD)"
-TELEGRAM_TOKEN=${BOT_API_KEY}
+TELEGRAM_TOKEN=${" 5050254507:AAF1SIVqHQRR6HDbTsNtduaQ5H6qkzc5Z0Q"} 
 export BOT_API_KEY PARSE_BRANCH PARSE_ORIGIN COMMIT_POINT TELEGRAM_TOKEN
 
 kickstart_pub
